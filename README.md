@@ -1,4 +1,4 @@
 # Web-Tech
-this is first repo
+this is first git code
 <br>
-Author- Himanshu Gupta
+Author- Himanshu gupta
