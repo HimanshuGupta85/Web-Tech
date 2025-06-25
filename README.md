@@ -1,4 +1,4 @@
 # Web-Tech
-this is first git code
+This is the first git code
 <br>
-Author- Himanshu gupta
+Author- Himanshu Gupta
