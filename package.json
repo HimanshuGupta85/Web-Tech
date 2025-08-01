@@ -2,12 +2,16 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://HimanshuGupta85.github.io/Web-Tech",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@react-three/drei": "^10.5.2",
