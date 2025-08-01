@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import "./App.css"; // Importing custom styles
+import "./index.css"; // Importing custom styles
 import React from "react";
 import About from "./components/About"; // Importing the About component
 import Projects from "./components/Projects"; // Importing the Projects component

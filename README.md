@@ -1,7 +1,5 @@
 # Web-Tech
-This is the first git code.
-<br>
-Author- Himanshu Gupta
+My portfolio website, built with React and Vite.
 
 # React + Vite
 
