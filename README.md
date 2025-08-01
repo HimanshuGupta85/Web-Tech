@@ -1,3 +1,8 @@
+# Web-Tech
+This is the first git code.
+<br>
+Author- Himanshu Gupta
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
